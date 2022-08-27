@@ -9,3 +9,10 @@ OR,
 You can run the game in replit-
 <h3>https://replit.com/@ajaykumarn3000/breakout-game#main.py</h3>
 
+<h4>Gameplay:</h4>
+<ul>
+    <li>First click "spacebar" to start the game.
+    <li>Left-click & Hold on the paddle and move your mouse to move the paddle.
+    <li>Destroy all the tiles to WIN.
+    <li>Destroy all the lives to LOSE.
+<ul>
